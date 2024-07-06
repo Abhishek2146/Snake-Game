@@ -1,2 +1,2 @@
 # Snake-Game
-practice for learning git
+This is a snake-game .
